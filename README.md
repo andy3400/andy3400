@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
   <p align="left">
-  <a href="https://www.instagram.com/taehogu_530/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="https://www.instagram.com/tae_hogu530/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:grayhat3400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=grayhat3400@gmail.com"/></a>
 </p>
 
