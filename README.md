@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-   <a href="www.instagram.com/tae_hogu530/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com](https://www.instagram.com/tae_hogu530/)/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:grayaht3400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+   <a href="www.instagram.com/tae_hogu530/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tae_hogu530/"/>
+   </a>&nbsp
+  <a href="mailto:grayaht3400@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=grayhat3400@gmail.com"/></a>
 </div>
 
   ## 🔨 Once I've used 🔨
