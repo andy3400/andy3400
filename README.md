@@ -1,6 +1,6 @@
 # HELLO, I'm taeho 👋
 
-## _I'm developing blockchain and apps.
+##_ I'm developing blockchain and apps.
 
 <!--
 **andy3400/andy3400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
