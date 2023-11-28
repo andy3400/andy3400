@@ -7,7 +7,7 @@
 
 
 
-[![taeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/andy3400/github-readme-stats)
+[![taeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy3400&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/andy3400/github-readme-stats)
  
 <br>
 
