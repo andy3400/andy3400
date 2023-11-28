@@ -5,8 +5,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandy3400&countbg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/andy3400)
 
-
-
 [![taeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy3400&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/andy3400/github-readme-stats)
  
 <br>
@@ -16,11 +14,11 @@
     <a href="https://velog.io/@andy3400">
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
+    <a href="https://www.notion.so/63f4a72b23fb42058cb236d4c5d1dc62">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=grayhat3400&theme=default)](https://grayhat3400.tistory.com/10)
 </div><br>
 
  
