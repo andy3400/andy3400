@@ -12,11 +12,6 @@
     <a href="https://velog.io/@andy3400">
         <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/63f4a72b23fb42058cb236d4c5d1dc62">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=grayhat3400&theme=default)](https://grayhat3400.tistory.com/10)
 </div><br>
 
  
