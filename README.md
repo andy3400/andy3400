@@ -1,6 +1,3 @@
-
-
-
 ```swift
 public struct AboutMe {
     let name = "ANDY"
@@ -13,11 +10,8 @@ public struct AboutMe {
 }
 ```
 
-I solve problems using the tools available to me. I generally like using Swift and SwiftUI but not afraid to try something new.
-
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6na4Lq0ozPBjHD1X42szEQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) [![Twitch Status](https://img.shields.io/twitch/status/heyjaywilson?logo=twitch&style=for-the-badge)](https://twitch.tv/heyjaywilson)
-</div>
+I solve problems using the tools available to me. 
+I generally like using Spring and React but not afraid to try something new.
 
 ## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
 
