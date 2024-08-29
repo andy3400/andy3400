@@ -1,9 +1,5 @@
-<div align="left">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20TAEHO's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
----
 
-[![taeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy3400&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/andy3400/github-readme-stats)
+
 
 ```swift
 public struct AboutMe {
@@ -19,7 +15,6 @@ public struct AboutMe {
 
 I solve problems using the tools available to me. I generally like using Swift and SwiftUI but not afraid to try something new.
 
-<div style="display:flex;justify-content:center;">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6na4Lq0ozPBjHD1X42szEQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) [![Twitch Status](https://img.shields.io/twitch/status/heyjaywilson?logo=twitch&style=for-the-badge)](https://twitch.tv/heyjaywilson)
 </div>
@@ -31,3 +26,6 @@ I solve problems using the tools available to me. I generally like using Swift a
 ## Latest [Blog](https://cctplus.dev) Posts
 
 {latest_blogs}
+
+[![taeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy3400&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/andy3400/github-readme-stats)
+
