@@ -18,10 +18,10 @@
 <details>
   <summary><b>Show Skills</b></summary>
   <ul>
-    <li><b>Languages:</b> C, C++, Java, Python</li>
-    <li><b>Front-End:</b> HTML5, CSS3, JavaScript</li>
-    <li><b>Cloud Hosting:</b> GitHub Pages</li>
-    <li><b>Tools:</b> Git, GitHub, VS Code, Linux</li>
+    <li><b>Languages:</b> C, Java, Python</li>
+    <li><b>Front-End:</b> HTML5, CSS3, JavaScript, react</li>
+    <li><b>Back-End:</b>Spring, Spring boot</li>
+    <li><b>Tools:</b> GitHub, VS Code</li>
     <li><b>Extras:</b> Terminal, Markdown</li>
   </ul>
 </details>
