@@ -18,7 +18,7 @@
 <details>
   <summary><b>Show Skills</b></summary>
   <ul>
-    <li><b>Languages:</b> C, Java, Python</li>
+    <li><b>Languages:</b> C, Java, Python, Kotlin</li>
     <li><b>Front-End:</b>JavaScript, react</li>
     <li><b>Back-End:</b>Spring, Spring boot, SQL</li>
     <li><b>Tools:</b> GitHub, VS Code, AWS </li>
