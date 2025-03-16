@@ -40,3 +40,6 @@
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=andy3400&show_icons=true&hide_border=true)](https://github.com/shinplest)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy3400&layout=compact)](https://github.com/shinplest)
