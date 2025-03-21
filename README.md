@@ -1,4 +1,4 @@
-# Hi, I'm ANDY! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hello, I'm ANDY! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/andy3400)](https://hits.seeyoufarm.com)
 
