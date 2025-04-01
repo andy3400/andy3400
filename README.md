@@ -1,7 +1,5 @@
 # Hello, I'm ANDY! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/andy3400)](https://hits.seeyoufarm.com)
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+Andy's+GitHub!;Self-taught+Back-End+Developer;Blockchain+Researcher;Web3+Enthusiast">
