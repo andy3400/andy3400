@@ -10,9 +10,8 @@
 
 ## 👋 About Me
 - 🚀 **Self-taught Back-end Developer** passionate about learning
-- 💻 Currently working on **Spring Boot** projects
+- 💻 Currently working on **web3 & FinTech** projects
 - 🌍 Exploring **Web3** & **Blockchain**
-- 🎯 Open to **internships** and **job opportunities**
 
 ---
 
