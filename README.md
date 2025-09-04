@@ -9,7 +9,7 @@
 ---
 
 ## 👋 About Me
-- 🚀 **Self-taught Back-end Developer** passionate about learning
+- 🚀 **Self-taught Back-end Develop** passionate about learning
 - 💻 Currently working on **web3 & FinTech** projects
 - 🌍 Exploring **Web3** & **Blockchain**
 
