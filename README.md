@@ -9,7 +9,7 @@
 ---
 
 ## 👋 About Me
-- 🚀 **Self-taught Back-end Develop** passionate about learning
+- 🚀 **Self-taught FE & BE Develop** passionate about learning
 - 💻 Currently working on **web3 & FinTech** projects
 - 🌍 Exploring **Web3** & **Blockchain**
 - 🔗 Check out my portfolio: [andy3400.github.io/andy-portfolio](https://andy3400.github.io/andy-portfolio)
