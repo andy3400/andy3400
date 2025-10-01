@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 - 🚀 **Self-taught FE & BE Develop** passionate about learning
-- 💻 Currently working on **Defi** projects
+- 💻 Currently working on **Defi & Gamefi** projects
 - 🌍 Exploring **Web3** & **Blockchain**
 - 🔗 Check out my portfolio: [andy3400.github.io/andy-portfolio](https://andy3400.github.io/andy-portfolio)
 ---
